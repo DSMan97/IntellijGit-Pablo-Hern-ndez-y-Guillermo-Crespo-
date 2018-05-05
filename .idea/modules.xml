@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../2.iml" filepath="$PROJECT_DIR$/../2.iml" />
       <module fileurl="file://$PROJECT_DIR$/UD6.iml" filepath="$PROJECT_DIR$/UD6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leñe/leñe.iml" filepath="$PROJECT_DIR$/leñe/leñe.iml" />
     </modules>
   </component>
 </project>
